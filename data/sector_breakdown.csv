@@ -15,3 +15,19 @@ Wheat,Food (flour/bread),70
 Wheat,Feed,18
 Wheat,Seed,4
 Wheat,Other,8
+Cocoa,Confectionery/Chocolate,85
+Cocoa,Beverages,10
+Cocoa,Other/Industrial,5
+Coffee,Beverages,95
+Coffee,Food/Extracts,3
+Coffee,Other,2
+Nickel,Stainless steel,70
+Nickel,Batteries/EV,14
+Nickel,Alloys/Foundry,8
+Nickel,Plating,5
+Nickel,Other,3
+Soybean Oil,Edible/Cooking/Foodservice,70
+Soybean Oil,Biodiesel/Industrial,20
+Soybean Oil,Food processing,8
+Soybean Oil,Other,2
+
