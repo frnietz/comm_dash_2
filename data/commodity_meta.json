@@ -26,7 +26,7 @@
     "market_cap_or_size_usd_bil": 180.0,
     "yfinance_ticker": "ZW=F",
     "notes": "Size based on global production \u00d7 average price order-of-magnitude."
-  }
+  },
 
   "Cocoa": {
   "display_name": "Cocoa (Beans)",
