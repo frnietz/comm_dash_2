@@ -1,0 +1,33 @@
+year,commodity,supply_mt,demand_mt,unit
+2019,Platinum,6.2,6.3,kt
+2020,Platinum,6.1,6.0,kt
+2021,Platinum,6.3,6.4,kt
+2022,Platinum,6.2,6.5,kt
+2023,Platinum,6.4,6.6,kt
+2024,Platinum,6.5,6.7,kt
+2025,Platinum,6.6,6.9,kt
+2026,Platinum,6.7,7.0,kt
+2019,Copper,24.5,24.0,mt
+2020,Copper,24.2,23.8,mt
+2021,Copper,25.0,24.7,mt
+2022,Copper,25.3,25.1,mt
+2023,Copper,26.0,25.8,mt
+2024,Copper,26.4,26.2,mt
+2025,Copper,26.9,26.7,mt
+2026,Copper,27.3,27.1,mt
+2019,Crude Oil,100.0,99.5,mbpd
+2020,Crude Oil,93.0,91.0,mbpd
+2021,Crude Oil,97.0,96.5,mbpd
+2022,Crude Oil,101.0,100.5,mbpd
+2023,Crude Oil,102.5,102.0,mbpd
+2024,Crude Oil,103.0,103.5,mbpd
+2025,Crude Oil,103.8,104.2,mbpd
+2026,Crude Oil,104.5,104.8,mbpd
+2019,Wheat,765.0,755.0,mt
+2020,Wheat,773.0,760.0,mt
+2021,Wheat,781.0,775.0,mt
+2022,Wheat,790.0,788.0,mt
+2023,Wheat,795.0,800.0,mt
+2024,Wheat,802.0,808.0,mt
+2025,Wheat,810.0,815.0,mt
+2026,Wheat,818.0,822.0,mt

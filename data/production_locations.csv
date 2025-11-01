@@ -1,0 +1,21 @@
+commodity,country,iso3,share_pct
+Platinum,South Africa,ZAF,73
+Platinum,Russia,RUS,11
+Platinum,Zimbabwe,ZWE,8
+Platinum,Canada,CAN,3
+Platinum,Other,OTH,5
+Copper,Chile,CHL,27
+Copper,Peru,PER,10
+Copper,DR Congo,COD,9
+Copper,China,CHN,8
+Copper,Other,OTH,46
+Crude Oil,USA,USA,20
+Crude Oil,Saudi Arabia,SAU,13
+Crude Oil,Russia,RUS,12
+Crude Oil,Canada,CAN,6
+Crude Oil,Other,OTH,49
+Wheat,China,CHN,18
+Wheat,India,IND,14
+Wheat,Russia,RUS,10
+Wheat,USA,USA,6
+Wheat,Other,OTH,52

@@ -1,0 +1,30 @@
+{
+  "Platinum": {
+    "display_name": "Platinum",
+    "unit_price": "USD/oz",
+    "market_cap_or_size_usd_bil": 16.0,
+    "yfinance_ticker": "PL=F",
+    "notes": "Market cap is approximated here as indicative market size, not an equity market cap."
+  },
+  "Copper": {
+    "display_name": "Copper",
+    "unit_price": "USD/lb",
+    "market_cap_or_size_usd_bil": 220.0,
+    "yfinance_ticker": "HG=F",
+    "notes": "Size represents estimated annual market value, not a listed market cap."
+  },
+  "Crude Oil": {
+    "display_name": "Crude Oil (WTI)",
+    "unit_price": "USD/bbl",
+    "market_cap_or_size_usd_bil": 2400.0,
+    "yfinance_ticker": "CL=F",
+    "notes": "Size derived from global consumption \u00d7 price order-of-magnitude."
+  },
+  "Wheat": {
+    "display_name": "Wheat",
+    "unit_price": "USD/bu",
+    "market_cap_or_size_usd_bil": 180.0,
+    "yfinance_ticker": "ZW=F",
+    "notes": "Size based on global production \u00d7 average price order-of-magnitude."
+  }
+}

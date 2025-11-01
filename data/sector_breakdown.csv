@@ -1,0 +1,17 @@
+commodity,sector,share_pct
+Platinum,Auto catalysts,39
+Platinum,Jewelry,30
+Platinum,Investment,12
+Platinum,Industrial,19
+Copper,Electrical/Power,40
+Copper,Construction,30
+Copper,Consumer goods,15
+Copper,Transport,15
+Crude Oil,Transport fuels,55
+Crude Oil,Petrochemicals,25
+Crude Oil,Industry & power,15
+Crude Oil,Other,5
+Wheat,Food (flour/bread),70
+Wheat,Feed,18
+Wheat,Seed,4
+Wheat,Other,8
