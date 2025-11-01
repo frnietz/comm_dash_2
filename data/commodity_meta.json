@@ -27,4 +27,35 @@
     "yfinance_ticker": "ZW=F",
     "notes": "Size based on global production \u00d7 average price order-of-magnitude."
   }
+
+  "Cocoa": {
+  "display_name": "Cocoa (Beans)",
+  "unit_price": "USD/ton",
+  "market_cap_or_size_usd_bil": 20.0,
+  "yfinance_ticker": "CC=F",
+  "notes": "Indicative physical market size; adjust to your methodology."
+},
+"Coffee": {
+  "display_name": "Coffee (Green)",
+  "unit_price": "USD/lb",
+  "market_cap_or_size_usd_bil": 50.0,
+  "yfinance_ticker": "KC=F",
+  "notes": "Arabica futures proxy; values are order-of-magnitude."
+},
+"Nickel": {
+  "display_name": "Nickel",
+  "unit_price": "USD/ton",
+  "market_cap_or_size_usd_bil": 80.0,
+  "yfinance_ticker": "NI=F",
+  "notes": "If Yahoo ticker resolution fails in your region, swap to an ETF proxy or vendor feed."
+},
+"Soybean Oil": {
+  "display_name": "Soybean Oil",
+  "unit_price": "USD/lb",
+  "market_cap_or_size_usd_bil": 70.0,
+  "yfinance_ticker": "ZL=F",
+  "notes": "CBOT Soybean Oil front contract."
 }
+
+}
+
