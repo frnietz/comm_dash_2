@@ -59,7 +59,7 @@ if price_val is None:
     price_val = 100.0
 
 mid.metric(label=f"Price ({m['unit_price']})", value=f"{price_val:,.2f}")
-right.metric(label="Market Cap / Size (USD bn)", value=f"{m['market_cap_or_size_usd_bil']:,.1f}\")
+right.metric(label="Market Cap / Size (USD bn)", value=f"{m['market_cap_or_size_usd_bil']:,.1f}")
 
 # Supply-demand latest
 sd = supply_demand[supply_demand['commodity']==commodity].sort_values("year")
