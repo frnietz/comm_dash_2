@@ -1,10 +1,7 @@
-feedparser
 numpy
 pandas
 plotly
 python-dotenv
 requests
 streamlit
-vaderSentiment
 yfinance
-
