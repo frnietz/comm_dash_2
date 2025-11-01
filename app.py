@@ -58,15 +58,15 @@ if price_val is None:
     # Fallback simulated
     price_val = 100.0
 
-mid.metric(label=f"Price ({m['unit_price']})", value=f\"{price_val:,.2f}\")
-right.metric(label="Market Cap / Size (USD bn)", value=f\"{m['market_cap_or_size_usd_bil']:,.1f}\")
+mid.metric(label=f"Price ({m['unit_price']})", value=f"{price_val:,.2f}")
+right.metric(label="Market Cap / Size (USD bn)", value=f"{m['market_cap_or_size_usd_bil']:,.1f}\")
 
 # Supply-demand latest
 sd = supply_demand[supply_demand['commodity']==commodity].sort_values("year")
 latest_row = sd.iloc[-1]
 balance = latest_row['supply_mt'] - latest_row['demand_mt']
 badge = "🟥 Deficit" if balance < 0 else ("🟩 Surplus" if balance > 0 else "🟨 Balanced")
-right2.metric(label="Balance (latest)", value=badge, delta=f\"{balance:,.2f} {latest_row['unit']}\")
+right2.metric(label="Balance (latest)", value=badge, delta=f"{balance:,.2f} {latest_row['unit']}\")
 
 st.markdown("---")
 
