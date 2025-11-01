@@ -1,61 +1,58 @@
 {
-  "Platinum": {
-    "display_name": "Platinum",
-    "unit_price": "USD/oz",
-    "market_cap_or_size_usd_bil": 16.0,
-    "yfinance_ticker": "PL=F",
-    "notes": "Market cap is approximated here as indicative market size, not an equity market cap."
+  "Cocoa": {
+    "display_name": "Cocoa (Beans)",
+    "unit_price": "USD/ton",
+    "market_cap_or_size_usd_bil": 20.0,
+    "yfinance_ticker": "CC=F",
+    "notes": "Indicative physical market size; front futures symbol CC=F."
+  },
+  "Coffee": {
+    "display_name": "Coffee (Green)",
+    "unit_price": "USD/lb",
+    "market_cap_or_size_usd_bil": 50.0,
+    "yfinance_ticker": "KC=F",
+    "notes": "Arabica futures front contract KC=F."
   },
   "Copper": {
     "display_name": "Copper",
     "unit_price": "USD/lb",
     "market_cap_or_size_usd_bil": 220.0,
     "yfinance_ticker": "HG=F",
-    "notes": "Size represents estimated annual market value, not a listed market cap."
+    "notes": "Size represents estimated annual physical market value."
   },
   "Crude Oil": {
     "display_name": "Crude Oil (WTI)",
     "unit_price": "USD/bbl",
     "market_cap_or_size_usd_bil": 2400.0,
     "yfinance_ticker": "CL=F",
-    "notes": "Size derived from global consumption \u00d7 price order-of-magnitude."
+    "notes": "WTI front contract CL=F. Brent alternative: BZ=F."
+  },
+  "Nickel": {
+    "display_name": "Nickel",
+    "unit_price": "USD/ton",
+    "market_cap_or_size_usd_bil": 80.0,
+    "yfinance_ticker": "NI=F",
+    "notes": "Nickel front contract. Availability varies by region on Yahoo."
+  },
+  "Platinum": {
+    "display_name": "Platinum",
+    "unit_price": "USD/oz",
+    "market_cap_or_size_usd_bil": 16.0,
+    "yfinance_ticker": "PL=F",
+    "notes": "Indicative market size; front contract PL=F."
+  },
+  "Soybean Oil": {
+    "display_name": "Soybean Oil",
+    "unit_price": "USD/lb",
+    "market_cap_or_size_usd_bil": 70.0,
+    "yfinance_ticker": "ZL=F",
+    "notes": "Soybean Oil front CBOT contract ZL=F."
   },
   "Wheat": {
     "display_name": "Wheat",
     "unit_price": "USD/bu",
     "market_cap_or_size_usd_bil": 180.0,
     "yfinance_ticker": "ZW=F",
-    "notes": "Size based on global production \u00d7 average price order-of-magnitude."
-  },
-
-  "Cocoa": {
-  "display_name": "Cocoa (Beans)",
-  "unit_price": "USD/ton",
-  "market_cap_or_size_usd_bil": 20.0,
-  "yfinance_ticker": "CC=F",
-  "notes": "Indicative physical market size; adjust to your methodology."
-},
-"Coffee": {
-  "display_name": "Coffee (Green)",
-  "unit_price": "USD/lb",
-  "market_cap_or_size_usd_bil": 50.0,
-  "yfinance_ticker": "KC=F",
-  "notes": "Arabica futures proxy; values are order-of-magnitude."
-},
-"Nickel": {
-  "display_name": "Nickel",
-  "unit_price": "USD/ton",
-  "market_cap_or_size_usd_bil": 80.0,
-  "yfinance_ticker": "NI=F",
-  "notes": "If Yahoo ticker resolution fails in your region, swap to an ETF proxy or vendor feed."
-},
-"Soybean Oil": {
-  "display_name": "Soybean Oil",
-  "unit_price": "USD/lb",
-  "market_cap_or_size_usd_bil": 70.0,
-  "yfinance_ticker": "ZL=F",
-  "notes": "CBOT Soybean Oil front contract."
+    "notes": "CBOT Wheat front contract ZW=F."
+  }
 }
-
-}
-
