@@ -1,0 +1,26 @@
+{
+  "Crude Oil": [
+    "CL=F",
+    "CLZ25.NYM",
+    "CLH26.NYM",
+    "CLM26.NYM"
+  ],
+  "Copper": [
+    "HG=F",
+    "HGZ25.CMX",
+    "HGH26.CMX",
+    "HGM26.CMX"
+  ],
+  "Wheat": [
+    "ZW=F",
+    "ZWZ25.CBT",
+    "ZWH26.CBT",
+    "ZWN26.CBT"
+  ],
+  "Platinum": [
+    "PL=F",
+    "PLZ25.NYM",
+    "PLF26.NYM",
+    "PLJ26.NYM"
+  ]
+}
