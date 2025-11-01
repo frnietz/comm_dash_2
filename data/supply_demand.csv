@@ -31,7 +31,6 @@ year,commodity,supply_mt,demand_mt,unit
 2024,Wheat,802.0,808.0,mt
 2025,Wheat,810.0,815.0,mt
 2026,Wheat,818.0,822.0,mt
-# Cocoa (mt)
 2022,Cocoa,5.0,5.1,mt
 2023,Cocoa,5.1,5.2,mt
 2024,Cocoa,5.0,5.3,mt
