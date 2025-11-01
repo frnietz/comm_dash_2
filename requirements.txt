@@ -1,8 +1,10 @@
-streamlit
-pandas
-numpy
-plotly
-yfinance
-requests
-python-dotenv
 feedparser
+numpy
+pandas
+plotly
+python-dotenv
+requests
+streamlit
+vaderSentiment
+yfinance
+
