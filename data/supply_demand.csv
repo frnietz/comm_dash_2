@@ -37,22 +37,16 @@ year,commodity,supply_mt,demand_mt,unit
 2024,Cocoa,5.0,5.3,mt
 2025,Cocoa,5.2,5.35,mt
 2026,Cocoa,5.3,5.4,mt
-
-# Coffee (mt)
 2022,Coffee,10.6,10.7,mt
 2023,Coffee,10.8,10.9,mt
 2024,Coffee,11.0,11.1,mt
 2025,Coffee,11.2,11.3,mt
 2026,Coffee,11.4,11.5,mt
-
-# Nickel (kt)
 2022,Nickel,3000,2920,kt
 2023,Nickel,3300,3050,kt
 2024,Nickel,3600,3250,kt
 2025,Nickel,3800,3450,kt
 2026,Nickel,3950,3600,kt
-
-# Soybean Oil (mt)
 2022,Soybean Oil,60,59,mt
 2023,Soybean Oil,62,61,mt
 2024,Soybean Oil,64,63,mt
